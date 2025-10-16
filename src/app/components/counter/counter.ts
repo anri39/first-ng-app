@@ -3,7 +3,6 @@ import { Component, signal } from '@angular/core';
 
 @Component({
   selector: 'app-counter',
-
   templateUrl: './counter.html',
   styleUrls: ['./counter.css'],
   standalone: true,
